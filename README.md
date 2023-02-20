@@ -12,7 +12,7 @@
 
 ## :dart: Business Goal
 
-**Recommend a data-driven strategy to increase customer satisfaction rate**
+***Recommend a data-driven strategy to increase customer satisfaction rate***
 
 ## :mag: Exploration and Analysis
 
@@ -34,6 +34,43 @@ After gaining an initial understanding of the dataset and the problem statement,
 
 
 **2. Which customer segments are dissatisfied with the Airline? (Based on Gender, Age, Customer Type, Type of Travel, Class and Flight Distance)**
+
+- **Gender**
+
+|Female|Male|
+|----|----|
+|![Screenshot 2023-02-20 215701](https://user-images.githubusercontent.com/96012488/220158831-128968c8-e9ad-4d5b-9002-afd0dd0da981.png)|![Screenshot 2023-02-20 215644](https://user-images.githubusercontent.com/96012488/220158879-adf03fda-e756-40cc-8087-30f3e943f3a1.png)|
+
+- Thus, the percentage of female passengers satisfied with the airline is almost the same as that of males.
+
+#
+
+- **Age group**
+
+![Screenshot 2023-02-20 222425](https://user-images.githubusercontent.com/96012488/220164270-ccf34886-ec74-437a-b1cc-fad94ffbfa50.png) 
+![Screenshot 2023-02-20 223515](https://user-images.githubusercontent.com/96012488/220166293-0d5d82ff-b68e-4956-8f14-f8c8ac9dcd13.png)
+
+- Age group 31-59 has the highest percentage of satisfied customers i.e. 53% which is greater than the overall percentage of satisfied customers.
+- Under 18 and 60 & above have a very high percentage of dissatisfied customers i.e. 83% and 79% respectively. 
+
+#
+
+- **Customer Type**
+
+#
+
+- **Type of Travel**
+
+#
+
+- **Class**
+
+#
+
+- **Flight Distance**
+
+
+
 
 **3. Which factors are the passengers most satisfied with? Which factors are they most dissatisfied with?**
 
