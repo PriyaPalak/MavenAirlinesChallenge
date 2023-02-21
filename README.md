@@ -16,13 +16,6 @@
 
 ## :mag: Exploration and Analysis
 
-First, let's understand the distribution of the passengers.
-
-- **Gender:**
-- **Age:**
-
-and so on...
-
 
 After gaining an initial understanding of the dataset and the problem statement, I've some guiding questions in mind to begin the analysis. These questions take us in the right direction to solve the issue in hand. I try to answer these questions through vizualisations on Tableau.
 
@@ -102,9 +95,11 @@ Flight Distance or Flight Length can be categorised into 3 groups: short-haul, m
 
 **3. Which factors are the passengers most satisfied with? Which factors are they most dissatisfied with?**
 
+Show the Likert Scale
+
 **4. What is the profile of a repeating customer?**
 
-
+Figure out a visualisation for this, something like likert scale
 
 
 
