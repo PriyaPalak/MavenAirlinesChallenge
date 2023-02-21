@@ -41,7 +41,7 @@ After gaining an initial understanding of the dataset and the problem statement,
 |----|----|
 |![Screenshot 2023-02-20 215701](https://user-images.githubusercontent.com/96012488/220158831-128968c8-e9ad-4d5b-9002-afd0dd0da981.png)|![Screenshot 2023-02-20 215644](https://user-images.githubusercontent.com/96012488/220158879-adf03fda-e756-40cc-8087-30f3e943f3a1.png)|
 
-- Thus, the percentage of female passengers dissatisfied with the airline is almost the same as that of males.
+:arrow_right: Thus, the percentage of female passengers dissatisfied with the airline is almost the same as that of males.
 
 #
 
@@ -54,8 +54,9 @@ After gaining an initial understanding of the dataset and the problem statement,
 ![Screenshot 2023-02-20 222425](https://user-images.githubusercontent.com/96012488/220164270-ccf34886-ec74-437a-b1cc-fad94ffbfa50.png) 
 
 
-- Age group 31-59 has the highest percentage of satisfied customers i.e. 53% which is greater than the overall percentage of satisfied customers.
-- *Under 18* and *60 & above* have a very high percentage of dissatisfied customers i.e. 83% and 79% respectively. 
+:arrow_right: Age group 31-59 has the highest percentage of satisfied customers i.e. 53% which is greater than the overall percentage of satisfied customers.
+
+:arrow_right: *Under 18* and *60 & above* have a very high percentage of dissatisfied customers i.e. 83% and 79% respectively. 
 
 #
 
@@ -63,7 +64,7 @@ After gaining an initial understanding of the dataset and the problem statement,
 
 ![Screenshot 2023-02-21 180324](https://user-images.githubusercontent.com/96012488/220346088-13e72d11-6162-4217-9aae-5f16b8214432.png)
 
-- 76% of the *First time* passengers are dissatisfied with the airline, whereas 52% of the Returning passengers are dissatisfied.
+:arrow_right: 76% of the *First time* passengers are dissatisfied with the airline, whereas 52% of the Returning passengers are dissatisfied.
 
 #
 
@@ -71,16 +72,31 @@ After gaining an initial understanding of the dataset and the problem statement,
 
 ![Screenshot 2023-02-21 181134](https://user-images.githubusercontent.com/96012488/220347618-1d513099-40ec-40fe-95c8-a3465971df54.png)
 
-- A humongous 90% of the passengers travelling for *Personal purposes* are dissatisfied with the airline. Whereas, the dissatisfaction rate is 42% in avelling for Business.
+:arrow_right: A humongous 90% of the passengers travelling for *Personal purposes* are dissatisfied with the airline. Whereas, the dissatisfaction rate is 42% in the case of passengers travelling for Business.
 
 #
 
 - **Class**
 
+![Screenshot 2023-02-21 181816](https://user-images.githubusercontent.com/96012488/220348861-c3a5a84f-2e04-4dd7-b40b-a49b830ab156.png)
+
+:arrow_right: 81% of the *Economy* class passengers are dissatisfied. In the Business class, the rate is only 32%.
+
 #
 
 - **Flight Distance**
 
+Flight Distance or Flight Length can be categorised into 3 groups: short-haul, medium-haul and long-haul.
+
+-	Short-haul: Less than 1000 miles
+-	Medium-haul: Between 1000 and 2000 miles
+- Long-haul: More than 2000 miles
+
+![Screenshot 2023-02-21 182210](https://user-images.githubusercontent.com/96012488/220349675-2d827b0e-3021-447c-bdcb-ef7f58e85f3d.png)
+
+:arrow_right: 67% of the passengers of *Short-haul* flights and 52% of *Medium-haul* flights are dissatisfied. Whereas, the rate is only 30% in the case of long-haul flights.
+
+:arrow_right: Thus, Passengers travelling for shorter distances are more  dissatisfied compared to longer distances.
 
 
 
