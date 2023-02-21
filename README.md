@@ -41,25 +41,37 @@ After gaining an initial understanding of the dataset and the problem statement,
 |----|----|
 |![Screenshot 2023-02-20 215701](https://user-images.githubusercontent.com/96012488/220158831-128968c8-e9ad-4d5b-9002-afd0dd0da981.png)|![Screenshot 2023-02-20 215644](https://user-images.githubusercontent.com/96012488/220158879-adf03fda-e756-40cc-8087-30f3e943f3a1.png)|
 
-- Thus, the percentage of female passengers satisfied with the airline is almost the same as that of males.
+- Thus, the percentage of female passengers dissatisfied with the airline is almost the same as that of males.
+
+#
+
+![Screenshot 2023-02-20 223515](https://user-images.githubusercontent.com/96012488/220166293-0d5d82ff-b68e-4956-8f14-f8c8ac9dcd13.png)
 
 #
 
 - **Age group**
 
 ![Screenshot 2023-02-20 222425](https://user-images.githubusercontent.com/96012488/220164270-ccf34886-ec74-437a-b1cc-fad94ffbfa50.png) 
-![Screenshot 2023-02-20 223515](https://user-images.githubusercontent.com/96012488/220166293-0d5d82ff-b68e-4956-8f14-f8c8ac9dcd13.png)
+
 
 - Age group 31-59 has the highest percentage of satisfied customers i.e. 53% which is greater than the overall percentage of satisfied customers.
-- Under 18 and 60 & above have a very high percentage of dissatisfied customers i.e. 83% and 79% respectively. 
+- *Under 18* and *60 & above* have a very high percentage of dissatisfied customers i.e. 83% and 79% respectively. 
 
 #
 
 - **Customer Type**
 
+![Screenshot 2023-02-21 180324](https://user-images.githubusercontent.com/96012488/220346088-13e72d11-6162-4217-9aae-5f16b8214432.png)
+
+- 76% of the *First time* passengers are dissatisfied with the airline, whereas 52% of the Returning passengers are dissatisfied.
+
 #
 
 - **Type of Travel**
+
+![Screenshot 2023-02-21 181134](https://user-images.githubusercontent.com/96012488/220347618-1d513099-40ec-40fe-95c8-a3465971df54.png)
+
+- A humongous 90% of the passengers travelling for *Personal purposes* are dissatisfied with the airline. Whereas, the dissatisfaction rate is 42% in avelling for Business.
 
 #
 
