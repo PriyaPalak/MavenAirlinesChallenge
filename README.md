@@ -19,14 +19,14 @@
 
 After gaining an initial understanding of the dataset and the problem statement, I've some guiding questions in mind to begin the analysis. These questions take us in the right direction to solve the issue in hand. I try to answer these questions through vizualisations on Tableau.
 
-**1. What percentage of the passengers are overall satisfied with the Airline?**
+### 1. What percentage of the passengers are overall satisfied with the Airline?
 
 ![Screenshot 2023-02-20 184457](https://user-images.githubusercontent.com/96012488/220118806-86628b61-9b1d-4144-a51c-071ba6bbb3f8.png)
 
 - As we can see above, only **43%** of the passengers are satisfied with the airline. The majority **57%** are either neutral or dissatisfied.
 
 
-**2. Which customer segments are dissatisfied with the Airline? (Based on Gender, Age, Customer Type, Type of Travel, Class and Flight Distance)**
+### 2. Which customer segments are dissatisfied with the Airline? (Based on Gender, Age, Customer Type, Type of Travel, Class and Flight Distance)
 
 - **Gender**
 
@@ -93,7 +93,7 @@ Flight Distance or Flight Length can be categorised into 3 groups: short-haul, m
 
 
 
-**3. Which factors are the passengers most satisfied with? Which factors are they most dissatisfied with?**
+### 3. Which factors are the passengers most satisfied with? Which factors are they most dissatisfied with?
 
 ![Likert scale ](https://user-images.githubusercontent.com/96012488/220844833-ffc803d6-ead8-4603-9bcc-33210db93418.png)
 
@@ -102,7 +102,7 @@ This is a Likert Scale Chart, which shows the percentage of passengers having th
 - People are quite satisfied with 2 factors - In-flight service and Baggage handling, as their average ratings are highest.
 - People are really not satisfied with 3 factors - In-Flight Wi-Fi service, Online Booking and Gate Location, as these factors have the lowest average ratings.
 
-**4. What is the profile of a repeating customer?**
+### 4. What is the profile of a repeating customer?
 
 Figure out a visualisation for this, something like likert scale
 
@@ -143,6 +143,6 @@ The major takeaways from the analysis are
 
 ## :book: Recommendations
 
-
+Coming...
 
 
