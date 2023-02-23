@@ -4,10 +4,10 @@
 
 ## :books: About the Data
 
-- The dataset provided contains data on airline passengers about their demographics like Gender and Age, their flight details like Class and Distance and their satisfaction scores on different facilities provided by the airline like cleanliness, comfort, Wi-Fi, etc. 
+- The dataset contains data on nearly **130K** airline passengers about their demographics like Gender and Age, their flight details like Class and Distance and their satisfaction scores on different facilities provided by the airline like cleanliness, comfort, Wi-Fi, etc. 
 - There are satisfaction scores on a total of **14 factors** and an overall verdict on whether they are satisfied or neutral/dissatisfied.
 - The Satisfaction score is based on a scale of 1 to 5, with 1 being the lowest level of satisfaction and 5 being the highest. 0 means Not Applicable. 
-- There are nearly **130K** records in the dataset.
+
 
 
 ## :dart: Business Goal
@@ -95,7 +95,12 @@ Flight Distance or Flight Length can be categorised into 3 groups: short-haul, m
 
 **3. Which factors are the passengers most satisfied with? Which factors are they most dissatisfied with?**
 
-Show the Likert Scale
+![Likert scale ](https://user-images.githubusercontent.com/96012488/220844833-ffc803d6-ead8-4603-9bcc-33210db93418.png)
+
+This is a Likert Scale Chart, which shows the percentage of passengers having the given level of satisfaction with a given factor. The yellow circles show the average ratings for each of these factors. So, as we can infer from the values of average ratings
+
+- People are quite satisfied with 2 factors - In-flight service and Baggage handling, as their average ratings are highest.
+- People are really not satisfied with 3 factors - In-Flight Wi-Fi service, Online Booking and Gate Location, as these factors have the lowest average ratings.
 
 **4. What is the profile of a repeating customer?**
 
@@ -105,6 +110,30 @@ Figure out a visualisation for this, something like likert scale
 
 
 ## :bulb: Key Takeaways
+
+The major takeaways from the analysis are
+
+**Overall Satisfaction Rate**
+
+- Only *43%* of the passengers are satisfied with the airline.
+
+**Major Dissatisfied Customer Segments**
+
+-	**Age:** 83% in Under 18, 73% in 60 & above and 64% in 18-30 age groups are neutral or dissatisfied.
+-	**Customer Type:** 76% of First-Time Passengers are neutral or dissatisfied. Also, 52% of the Returning passengers are neutral or dissatisfied.
+-	**Type of Travel:** 90% of the passengers travelling for Personal purposes are neutral or dissatisfied.
+-	**Class:** 81% of Economy Class passengers and 76% of Economy Plus class passengers are neutral or dissatisfied.
+-	**Flight Distance:** 67% of the short-haul flights and 54% of the medium-haul flights passengers are neutral or dissatisfied.
+
+**Major Contributors to Customer Satisfaction and Dissatisfaction**
+
+-	3 factors – *In-flight Wi-Fi service*, *Online Booking* and *Gate Location* have very low ratings.
+-	2 factors – *Baggage Handling* and *In-flight service* have high ratings.
+
+**Repeating Customer Profile**
+
+-	Repeating Customer Profile: Passengers belonging to the *age group 31-59*, travelling for *Business purposes* 
+
 
 
 
