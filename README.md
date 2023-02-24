@@ -179,7 +179,7 @@ The major takeaways from the analysis are
 **1. In-Flight Wi-Fi Service:**
 
 
-|Basis|In-Focus Customer Segment|% neutral/Dissatisfied|
+|Basis|In-Focus Customer Segment|% Neutral/Dissatisfied|
 |-----|-------------------------|----------------------|
 |Age|60&above|75%|
 |Type of Travel|Personal|80%|
@@ -191,7 +191,7 @@ The major takeaways from the analysis are
 
 **2. Ease of Online Booking:**
 
-|Basis|In-Focus Customer Segment|% neutral/Dissatisfied|
+|Basis|In-Focus Customer Segment|% Neutral/Dissatisfied|
 |-----|-------------------------|----------------------|
 |Age|60&above|71%|
 |Customer Type|First Time|70%|
@@ -204,7 +204,7 @@ The major takeaways from the analysis are
 
 **3. Gate Location:**
 
-|Basis|In-Focus Customer Segment|% neutral/Dissatisfied|
+|Basis|In-Focus Customer Segment|% Neutral/Dissatisfied|
 |-----|-------------------------|----------------------|
 |Age|60&above|65%|
 |Customer Type|First Time|65%|
@@ -213,6 +213,10 @@ The major takeaways from the analysis are
 
 
 - *Although the gate location is dependent on the airport layout, airlines can direct their customers to the gate and provide an ETA from the check-in spot while providing boarding passes. Introducing a geo-location guide on the airline application would definitely enhance user experience.*
+
+---
+
+*Thank you for checking out my project!:smiley:*
 
 
 
