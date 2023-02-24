@@ -21,7 +21,7 @@ After gaining an initial understanding of the dataset and the problem statement,
 
 ### 1. What percentage of the passengers are overall satisfied with the Airline?
 
-![Screenshot 2023-02-20 184457](https://user-images.githubusercontent.com/96012488/220118806-86628b61-9b1d-4144-a51c-071ba6bbb3f8.png)
+<img src = "https://user-images.githubusercontent.com/96012488/220118806-86628b61-9b1d-4144-a51c-071ba6bbb3f8.png" width = 45% height = 45% >
 
 - As we can see above, only **43%** of the passengers are satisfied with the airline. The majority **57%** are either neutral or dissatisfied.
 
@@ -38,7 +38,7 @@ After gaining an initial understanding of the dataset and the problem statement,
 
 #
 
-![Screenshot 2023-02-20 223515](https://user-images.githubusercontent.com/96012488/220166293-0d5d82ff-b68e-4956-8f14-f8c8ac9dcd13.png)
+<img align = "right" src = "https://user-images.githubusercontent.com/96012488/220166293-0d5d82ff-b68e-4956-8f14-f8c8ac9dcd13.png">
 
 #
 
@@ -104,7 +104,40 @@ This is a Likert Scale Chart, which shows the percentage of passengers having th
 
 ### 4. What is the profile of a repeating customer?
 
-Figure out a visualisation for this, something like likert scale
+Following Bubble charts show the distribution of returning customers across different factors like Gender, Type of Travel, Age and Class. 
+
+<p align = "center" >
+  <img src = "https://user-images.githubusercontent.com/96012488/221180144-54e785bf-04ed-4469-a5f1-eb62ec646cd4.png" width = 50% height = 50% >
+</p>
+
+- The proportion of males and females is same in the number of returning passengers.
+
+<p align = "center" >
+  <img src = "https://user-images.githubusercontent.com/96012488/221180198-98e19c94-929b-4dc2-ab76-561a74ce3d80.png" width = 50% height = 50% >
+</p>
+
+- 62% of the returning passengers are travelling for Business purposes.
+
+<p align = "center" >
+  <img src = "https://user-images.githubusercontent.com/96012488/221180247-445e062a-35b7-4ff8-a227-648d07fccb36.png" width = 50% height = 50% >
+</p>
+
+- 66% of the returning passengers belong to the age group 31-59.
+
+<p align = "center" >
+  <img src = "https://user-images.githubusercontent.com/96012488/221180289-62cf86f9-02b4-43ca-8968-3edf27cacf8b.png" width = 50% height = 50% >
+</p>
+
+- Almost 50% of the returning passengers travel in Business class and 42% travel in Economy class.
+
+
+
+**Repeating Customer Profile:** Passengers aged between 31-59 travelling for Business purposes in Business or Economy class.
+
+
+
+
+
 
 
 
@@ -132,7 +165,7 @@ The major takeaways from the analysis are
 
 **Repeating Customer Profile**
 
--	Repeating Customer Profile: Passengers belonging to the *age group 31-59*, travelling for *Business purposes* 
+-	Passengers belonging to the *age group 31-59*, travelling for *Business purposes* 
 
 
 
