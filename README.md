@@ -6,7 +6,7 @@
 
 - The dataset contains data on nearly **130K** airline passengers about their demographics like Gender and Age, their flight details like Class and Distance and their satisfaction scores on different facilities provided by the airline like cleanliness, comfort, Wi-Fi, etc. 
 - There are satisfaction scores on a total of **14 factors** and an overall verdict on whether they are satisfied or neutral/dissatisfied.
-- The Satisfaction score is based on a scale of 1 to 5, with 1 being the lowest level of satisfaction and 5 being the highest. 0 means Not Applicable. 
+- The Satisfaction score is based on a scale of **1 to 5**, with 1 being the lowest level of satisfaction and 5 being the highest. 0 means Not Applicable. 
 
 
 
@@ -178,33 +178,41 @@ The major takeaways from the analysis are
 
 **1. In-Flight Wi-Fi Service:**
 
-In-Focus Customer Segments:
 
-Age group - 60&above, 75% neutral/dissatisfied
-Type of Travel- Personal, 80% neutral/dissatisfied
-Class- Economy, 74% neutral/dissatisfied
-Customer Type – First Time, 70% neutral/dissatisfied
+|Basis|In-Focus Customer Segment|% neutral/Dissatisfied|
+|-----|-------------------------|----------------------|
+|Age|60&above|75%|
+|Type of Travel|Personal|80%|
+|Class|Economy|74%|
+|Customer Type|First Time|70%|
 
-- While 11.5% of the working adults (18-60) are highly satisfied with the service, only 3.5% of the senior citizens (above 60) travelling for personal purposes are highly satisfied. Upgrading the Wi-Fi facility and providing training to the senior citizens could raise the satisfaction levels with the service.
+- *Digging further, it was found that while 11.5% of the working adults (18-60) are highly satisfied with the service, only 3.5% of the senior citizens (above 60) travelling for personal purposes are highly satisfied. Upgrading the Wi-Fi facility and providing training to the senior citizens could raise the satisfaction levels with the service.*
 
 
 **2. Ease of Online Booking:**
-Age group – 60&above, 71% neutral/dissatisfied
-Customer Type - First time, 70% neutral/dissatisfied
-Type of Travel – Personal, 79% neutral/dissatisfied
-Class – Economy, 74% neutral/dissatisfied
 
-- People travelling for personal purposes who booked economy ticket for the first time with the airline (esp. senior citizens) clearly faced difficulties. A quick user-friendly process with sufficient prompts and enticing rewards will make the booking easier and also reduce the churn rate.
-
-
-**3. Gate Location:**  
-Age group – 60&above, 65% neutral/dissatisfied
-Customer Type – First time, 65% neutral/dissatisfied
-Type of Travel – Personal, 68% neutral/dissatisfied
-Class – Economy, 65% neutral/dissatisfied
+|Basis|In-Focus Customer Segment|% neutral/Dissatisfied|
+|-----|-------------------------|----------------------|
+|Age|60&above|71%|
+|Customer Type|First Time|70%|
+|Type of Travel|Personal|79%|
+|Class|Economy|74%|
 
 
-- Although the gate location is dependent on the airport layout, airlines can direct their customers to the gate and provide an ETA from the check-in spot while providing boarding passes. Introducing a geo-location guide on the airline application would definitely enhance user experience.
+- *People travelling for personal purposes who booked economy ticket for the first time with the airline (esp. senior citizens) clearly faced difficulties. A quick user-friendly process with sufficient prompts and enticing rewards will make the booking easier and also reduce the churn rate.*
+
+
+**3. Gate Location:**
+
+|Basis|In-Focus Customer Segment|% neutral/Dissatisfied|
+|-----|-------------------------|----------------------|
+|Age|60&above|65%|
+|Customer Type|First Time|65%|
+|Type of Travel|Personal|68%|
+|Class|Economy|65%|
+
+
+- *Although the gate location is dependent on the airport layout, airlines can direct their customers to the gate and provide an ETA from the check-in spot while providing boarding passes. Introducing a geo-location guide on the airline application would definitely enhance user experience.*
 
 
 
